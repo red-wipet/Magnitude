@@ -1,0 +1,30 @@
+﻿  Magnitude.cpp
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(168,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(178,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(183,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(282,9): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(283,10): warning C4101: bmap: неиспользованная локальная переменная
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(357,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(411,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(465,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(520,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(574,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(628,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(682,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(736,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(790,90): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(790,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(844,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(864,24): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(864,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(864,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(864,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(870,25): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(870,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Magnitude\Magnitude\Magnitude.cpp(870,25): warning C4129: C: неизвестная escape-последовательность
+  Создание кода
+  1 of 21 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Magnitude.vcxproj -> C:\Users\mrsuperbuddy\source\repos\Magnitude\Release\Magnitude.exe
